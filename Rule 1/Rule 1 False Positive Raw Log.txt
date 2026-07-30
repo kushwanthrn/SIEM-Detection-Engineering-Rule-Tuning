@@ -1,0 +1,38 @@
+07/28/2026 05:57:02.329 PM
+LogName=Microsoft-Windows-Sysmon/Operational
+EventCode=1
+EventType=4
+ComputerName=Windows10
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-Sysmon
+Type=Information
+RecordNumber=8788
+Keywords=None
+TaskCategory=Process Create (rule: ProcessCreate)
+OpCode=Info
+Message=Process Create:
+RuleName: -
+UtcTime: 2026-07-28 12:27:02.321
+ProcessGuid: {a802fc0f-a016-6a68-e302-000000000c00}
+ProcessId: 7348
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Windows PowerShell
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: PowerShell.EXE
+CommandLine: "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -Command "(New-Object Net.WebClient).DownloadFile('http://10.0.2.15:8080/rule1fp.msi', 'C:\Temp\rule1fp.msi')"
+CurrentDirectory: C:\Windows\system32\
+User: WINDOWS10\vboxuser
+LogonGuid: {a802fc0f-958b-6a68-a0ca-110000000000}
+LogonId: 0x11CAA0
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=6726185B70B5ADF05E8A1A1DF82EBF30,SHA256=64DD55E1C2373DEED25C2776F553C632E58C45E56A0E4639DFD54EE97EAB9C19,IMPHASH=E3007C8E0098D06ABF617EEE6F0C5ABD
+ParentProcessGuid: {a802fc0f-9dc7-6a68-7602-000000000c00}
+ParentProcessId: 5192
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ParentCommandLine: "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" 
+ParentUser: WINDOWS10\vboxuser
