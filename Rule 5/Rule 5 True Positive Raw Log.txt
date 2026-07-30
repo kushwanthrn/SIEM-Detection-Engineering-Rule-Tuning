@@ -1,0 +1,380 @@
+07/30/2026 07:59:35.000 PM
+LogName=Microsoft-Windows-Sysmon/Operational
+EventCode=1
+EventType=4
+ComputerName=Windows10
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-Sysmon
+Type=Information
+RecordNumber=18013
+Keywords=None
+TaskCategory=Process Create (rule: ProcessCreate)
+OpCode=Info
+Message=Process Create:
+RuleName: -
+UtcTime: 2026-07-30 14:29:34.965
+ProcessGuid: {a802fc0f-5fce-6a6b-bd07-000000000f00}
+ProcessId: 5972
+Image: C:\Windows\System32\whoami.exe
+FileVersion: 10.0.19041.1 (WinBuild.160101.0800)
+Description: whoami - displays logged on user information
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: whoami.exe
+CommandLine: "C:\Windows\system32\whoami.exe"
+CurrentDirectory: C:\Users\vboxuser\Desktop\
+User: WINDOWS10\vboxuser
+LogonGuid: {a802fc0f-3c38-6a6b-d20c-210000000000}
+LogonId: 0x210CD2
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=A4A6924F3EAF97981323703D38FD99C4,SHA256=1D4902A04D99E8CCBFE7085E63155955FEE397449D386453F6C452AE407B8743,IMPHASH=7FF0758B766F747CE57DFAC70743FB88
+ParentProcessGuid: {a802fc0f-5e41-6a6b-8a07-000000000f00}
+ParentProcessId: 5536
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ParentCommandLine: "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" 
+ParentUser: WINDOWS10\vboxuser
+07/30/2026 07:59:35.079 PM
+LogName=Microsoft-Windows-Sysmon/Operational
+EventCode=1
+EventType=4
+ComputerName=Windows10
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-Sysmon
+Type=Information
+RecordNumber=18014
+Keywords=None
+TaskCategory=Process Create (rule: ProcessCreate)
+OpCode=Info
+Message=Process Create:
+RuleName: -
+UtcTime: 2026-07-30 14:29:35.062
+ProcessGuid: {a802fc0f-5fcf-6a6b-be07-000000000f00}
+ProcessId: 5492
+Image: C:\Windows\System32\whoami.exe
+FileVersion: 10.0.19041.1 (WinBuild.160101.0800)
+Description: whoami - displays logged on user information
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: whoami.exe
+CommandLine: "C:\Windows\system32\whoami.exe" /priv
+CurrentDirectory: C:\Users\vboxuser\Desktop\
+User: WINDOWS10\vboxuser
+LogonGuid: {a802fc0f-3c38-6a6b-d20c-210000000000}
+LogonId: 0x210CD2
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=A4A6924F3EAF97981323703D38FD99C4,SHA256=1D4902A04D99E8CCBFE7085E63155955FEE397449D386453F6C452AE407B8743,IMPHASH=7FF0758B766F747CE57DFAC70743FB88
+ParentProcessGuid: {a802fc0f-5e41-6a6b-8a07-000000000f00}
+ParentProcessId: 5536
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ParentCommandLine: "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" 
+ParentUser: WINDOWS10\vboxuser
+07/30/2026 07:59:35.268 PM
+LogName=Microsoft-Windows-Sysmon/Operational
+EventCode=1
+EventType=4
+ComputerName=Windows10
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-Sysmon
+Type=Information
+RecordNumber=18015
+Keywords=None
+TaskCategory=Process Create (rule: ProcessCreate)
+OpCode=Info
+Message=Process Create:
+RuleName: -
+UtcTime: 2026-07-30 14:29:35.253
+ProcessGuid: {a802fc0f-5fcf-6a6b-bf07-000000000f00}
+ProcessId: 7388
+Image: C:\Windows\System32\whoami.exe
+FileVersion: 10.0.19041.1 (WinBuild.160101.0800)
+Description: whoami - displays logged on user information
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: whoami.exe
+CommandLine: "C:\Windows\system32\whoami.exe" /groups
+CurrentDirectory: C:\Users\vboxuser\Desktop\
+User: WINDOWS10\vboxuser
+LogonGuid: {a802fc0f-3c38-6a6b-d20c-210000000000}
+LogonId: 0x210CD2
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=A4A6924F3EAF97981323703D38FD99C4,SHA256=1D4902A04D99E8CCBFE7085E63155955FEE397449D386453F6C452AE407B8743,IMPHASH=7FF0758B766F747CE57DFAC70743FB88
+ParentProcessGuid: {a802fc0f-5e41-6a6b-8a07-000000000f00}
+ParentProcessId: 5536
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ParentCommandLine: "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" 
+ParentUser: WINDOWS10\vboxuser
+07/30/2026 07:59:35.444 PM
+LogName=Microsoft-Windows-Sysmon/Operational
+EventCode=1
+EventType=4
+ComputerName=Windows10
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-Sysmon
+Type=Information
+RecordNumber=18016
+Keywords=None
+TaskCategory=Process Create (rule: ProcessCreate)
+OpCode=Info
+Message=Process Create:
+RuleName: -
+UtcTime: 2026-07-30 14:29:35.422
+ProcessGuid: {a802fc0f-5fcf-6a6b-c007-000000000f00}
+ProcessId: 6632
+Image: C:\Windows\System32\systeminfo.exe
+FileVersion: 10.0.19041.1 (WinBuild.160101.0800)
+Description: Displays system information
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: sysinfo.exe
+CommandLine: "C:\Windows\system32\systeminfo.exe"
+CurrentDirectory: C:\Users\vboxuser\Desktop\
+User: WINDOWS10\vboxuser
+LogonGuid: {a802fc0f-3c38-6a6b-d20c-210000000000}
+LogonId: 0x210CD2
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=EE309A9C61511E907D87B10EF226FDCD,SHA256=6F87CAA51BDEA802045BB281FC2686A3C76364C26A3FFE6C2CCAC4AF5F9DB37B,IMPHASH=C7C3DF13F22D7A13802E6509367A5830
+ParentProcessGuid: {a802fc0f-5e41-6a6b-8a07-000000000f00}
+ParentProcessId: 5536
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ParentCommandLine: "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" 
+ParentUser: WINDOWS10\vboxuser
+07/30/2026 07:59:39.653 PM
+LogName=Microsoft-Windows-Sysmon/Operational
+EventCode=1
+EventType=4
+ComputerName=Windows10
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-Sysmon
+Type=Information
+RecordNumber=18023
+Keywords=None
+TaskCategory=Process Create (rule: ProcessCreate)
+OpCode=Info
+Message=Process Create:
+RuleName: -
+UtcTime: 2026-07-30 14:29:39.622
+ProcessGuid: {a802fc0f-5fd3-6a6b-c507-000000000f00}
+ProcessId: 2260
+Image: C:\Windows\System32\net.exe
+FileVersion: 10.0.19041.1 (WinBuild.160101.0800)
+Description: Net Command
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: net.exe
+CommandLine: "C:\Windows\system32\net.exe" user
+CurrentDirectory: C:\Users\vboxuser\Desktop\
+User: WINDOWS10\vboxuser
+LogonGuid: {a802fc0f-3c38-6a6b-d20c-210000000000}
+LogonId: 0x210CD2
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=0BD94A338EEA5A4E1F2830AE326E6D19,SHA256=9F376759BCBCD705F726460FC4A7E2B07F310F52BAA73CAAAAA124FDDBDF993E,IMPHASH=57F0C47AE2A1A2C06C8B987372AB0B07
+ParentProcessGuid: {a802fc0f-5e41-6a6b-8a07-000000000f00}
+ParentProcessId: 5536
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ParentCommandLine: "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" 
+ParentUser: WINDOWS10\vboxuser
+07/30/2026 07:59:39.802 PM
+LogName=Microsoft-Windows-Sysmon/Operational
+EventCode=1
+EventType=4
+ComputerName=Windows10
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-Sysmon
+Type=Information
+RecordNumber=18025
+Keywords=None
+TaskCategory=Process Create (rule: ProcessCreate)
+OpCode=Info
+Message=Process Create:
+RuleName: -
+UtcTime: 2026-07-30 14:29:39.787
+ProcessGuid: {a802fc0f-5fd3-6a6b-c707-000000000f00}
+ProcessId: 5556
+Image: C:\Windows\System32\net.exe
+FileVersion: 10.0.19041.1 (WinBuild.160101.0800)
+Description: Net Command
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: net.exe
+CommandLine: "C:\Windows\system32\net.exe" localgroup administrators
+CurrentDirectory: C:\Users\vboxuser\Desktop\
+User: WINDOWS10\vboxuser
+LogonGuid: {a802fc0f-3c38-6a6b-d20c-210000000000}
+LogonId: 0x210CD2
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=0BD94A338EEA5A4E1F2830AE326E6D19,SHA256=9F376759BCBCD705F726460FC4A7E2B07F310F52BAA73CAAAAA124FDDBDF993E,IMPHASH=57F0C47AE2A1A2C06C8B987372AB0B07
+ParentProcessGuid: {a802fc0f-5e41-6a6b-8a07-000000000f00}
+ParentProcessId: 5536
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ParentCommandLine: "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" 
+ParentUser: WINDOWS10\vboxuser
+07/30/2026 07:59:39.932 PM
+LogName=Microsoft-Windows-Sysmon/Operational
+EventCode=1
+EventType=4
+ComputerName=Windows10
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-Sysmon
+Type=Information
+RecordNumber=18027
+Keywords=None
+TaskCategory=Process Create (rule: ProcessCreate)
+OpCode=Info
+Message=Process Create:
+RuleName: -
+UtcTime: 2026-07-30 14:29:39.912
+ProcessGuid: {a802fc0f-5fd3-6a6b-c907-000000000f00}
+ProcessId: 5156
+Image: C:\Windows\System32\ipconfig.exe
+FileVersion: 10.0.19041.1 (WinBuild.160101.0800)
+Description: IP Configuration Utility
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: ipconfig.exe
+CommandLine: "C:\Windows\system32\ipconfig.exe" /all
+CurrentDirectory: C:\Users\vboxuser\Desktop\
+User: WINDOWS10\vboxuser
+LogonGuid: {a802fc0f-3c38-6a6b-d20c-210000000000}
+LogonId: 0x210CD2
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=62F170FB07FDBB79CEB7147101406EB8,SHA256=53E000F5AA9B3A00934319DB8080BB99CB323BF48FC628A64F75D7847C265606,IMPHASH=1002D523645A81BC52877D82D9E88417
+ParentProcessGuid: {a802fc0f-5e41-6a6b-8a07-000000000f00}
+ParentProcessId: 5536
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ParentCommandLine: "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" 
+ParentUser: WINDOWS10\vboxuser
+07/30/2026 07:59:40.457 PM
+LogName=Microsoft-Windows-Sysmon/Operational
+EventCode=1
+EventType=4
+ComputerName=Windows10
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-Sysmon
+Type=Information
+RecordNumber=18041
+Keywords=None
+TaskCategory=Process Create (rule: ProcessCreate)
+OpCode=Info
+Message=Process Create:
+RuleName: -
+UtcTime: 2026-07-30 14:29:40.443
+ProcessGuid: {a802fc0f-5fd4-6a6b-cb07-000000000f00}
+ProcessId: 6140
+Image: C:\Windows\System32\NETSTAT.EXE
+FileVersion: 10.0.19041.1 (WinBuild.160101.0800)
+Description: TCP/IP Netstat Command
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: netstat.exe
+CommandLine: "C:\Windows\system32\NETSTAT.EXE" -ano
+CurrentDirectory: C:\Users\vboxuser\Desktop\
+User: WINDOWS10\vboxuser
+LogonGuid: {a802fc0f-3c38-6a6b-d20c-210000000000}
+LogonId: 0x210CD2
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=7FDDD6681EA81CE26E64452336F479E6,SHA256=B094E827AF70241D71BED9767EC1A254FDC4164A646B2BA4C7105CD783ADBA0D,IMPHASH=F495C58FFEE3A623AD7AAA6BE78756D5
+ParentProcessGuid: {a802fc0f-5e41-6a6b-8a07-000000000f00}
+ParentProcessId: 5536
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ParentCommandLine: "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" 
+ParentUser: WINDOWS10\vboxuser
+07/30/2026 07:59:41.470 PM
+LogName=Microsoft-Windows-Sysmon/Operational
+EventCode=1
+EventType=4
+ComputerName=Windows10
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-Sysmon
+Type=Information
+RecordNumber=18046
+Keywords=None
+TaskCategory=Process Create (rule: ProcessCreate)
+OpCode=Info
+Message=Process Create:
+RuleName: -
+UtcTime: 2026-07-30 14:29:41.458
+ProcessGuid: {a802fc0f-5fd5-6a6b-cc07-000000000f00}
+ProcessId: 7096
+Image: C:\Windows\System32\ARP.EXE
+FileVersion: 10.0.19041.1 (WinBuild.160101.0800)
+Description: TCP/IP Arp Command
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: arp.exe
+CommandLine: "C:\Windows\system32\ARP.EXE" -a
+CurrentDirectory: C:\Users\vboxuser\Desktop\
+User: WINDOWS10\vboxuser
+LogonGuid: {a802fc0f-3c38-6a6b-d20c-210000000000}
+LogonId: 0x210CD2
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=2AF1B2C042B83437A4BE82B19749FA98,SHA256=7B79171410482F410B7572C58EDB7FD39326F7150C7C6882249B1CF9D7C970F0,IMPHASH=48A4D83E58F21E6758C9F94526FBB940
+ParentProcessGuid: {a802fc0f-5e41-6a6b-8a07-000000000f00}
+ParentProcessId: 5536
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ParentCommandLine: "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" 
+ParentUser: WINDOWS10\vboxuser
+07/30/2026 07:59:41.557 PM
+LogName=Microsoft-Windows-Sysmon/Operational
+EventCode=1
+EventType=4
+ComputerName=Windows10
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-Sysmon
+Type=Information
+RecordNumber=18047
+Keywords=None
+TaskCategory=Process Create (rule: ProcessCreate)
+OpCode=Info
+Message=Process Create:
+RuleName: -
+UtcTime: 2026-07-30 14:29:41.541
+ProcessGuid: {a802fc0f-5fd5-6a6b-cd07-000000000f00}
+ProcessId: 6360
+Image: C:\Windows\System32\tasklist.exe
+FileVersion: 10.0.19041.1 (WinBuild.160101.0800)
+Description: Lists the current running tasks
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: tasklist.exe
+CommandLine: "C:\Windows\system32\tasklist.exe" /v
+CurrentDirectory: C:\Users\vboxuser\Desktop\
+User: WINDOWS10\vboxuser
+LogonGuid: {a802fc0f-3c38-6a6b-d20c-210000000000}
+LogonId: 0x210CD2
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=D0A49A170E13D7F6AEBBEFED9DF88AAA,SHA256=BE7241A74FE9A9D30E0631E41533A362B21C8F7AAE3E5B6AD319CC15C024EC3F,IMPHASH=4C8D21C644C980DB3FF94E27BAD14C18
+ParentProcessGuid: {a802fc0f-5e41-6a6b-8a07-000000000f00}
+ParentProcessId: 5536
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+ParentCommandLine: "C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" 
+ParentUser: WINDOWS10\vboxuser
