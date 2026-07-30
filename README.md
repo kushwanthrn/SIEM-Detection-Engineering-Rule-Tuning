@@ -7,7 +7,7 @@ This project builds directly on [End-to-End SOC Investigation](https://github.co
 
 Five Splunk correlation rules were designed, tested, and tuned against the same attack chain: initial execution, dual persistence mechanisms, network exfiltration, and reconnaissance. Each rule was validated using **atomic testing** — a true-positive script replicating the exact malicious technique, and a false-positive script replicating benign lookalike activity — to confirm the rule discriminates correctly rather than simply pattern-matching on surface features. Every rule was also confirmed to fire as a genuine, live, scheduled Splunk alert, not just a search that logically *could* alert.
 
-**📄 [Full Write-Up (PDF)](./SIEM%20Detection%20Engineering%20Write-Up.pdf)**
+**📄 [Full Write-Up (PDF)](./SIEM%20Detection%20Engineering%20with%20Rule%20Tuning%20Write-Up.pdf)**
 
 ## Key Highlights
 
