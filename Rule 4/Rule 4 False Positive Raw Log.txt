@@ -1,0 +1,33 @@
+07/29/2026 07:18:01.438 PM
+LogName=Microsoft-Windows-Sysmon/Operational
+EventCode=3
+EventType=4
+ComputerName=Windows10
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-Sysmon
+Type=Information
+RecordNumber=13778
+Keywords=None
+TaskCategory=Network connection detected (rule: NetworkConnect)
+OpCode=Info
+Message=Network connection detected:
+RuleName: -
+UtcTime: 2026-07-29 13:48:34.106
+ProcessGuid: {a802fc0f-d16b-6a69-4301-000000000d00}
+ProcessId: 5920
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+User: WINDOWS10\vboxuser
+Protocol: tcp
+Initiated: true
+SourceIsIpv6: false
+SourceIp: 10.0.2.3
+SourceHostname: Windows10
+SourcePort: 53542
+SourcePortName: -
+DestinationIsIpv6: false
+DestinationIp: 10.0.2.15
+DestinationHostname: -
+DestinationPort: 8443
+DestinationPortName: -
