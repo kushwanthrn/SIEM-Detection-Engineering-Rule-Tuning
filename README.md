@@ -37,11 +37,11 @@ Each rule folder contains its full evidence set — Splunk query screenshots (nu
 
 ```
 ├── SIEM-Detection-Engineering-Write-Up.pdf   # Full write-up: methodology, all 5 rules, tuning summary
-├── Rule1-PowerShell-Download-Cradle/
-├── Rule2-Registry-Run-Key-Persistence/
-├── Rule3-Scheduled-Task-Creation/
-├── Rule4-Outbound-Non-Standard-Port/
-└── Rule5-Rapid-Discovery-Command-Burst/
+├── Rule 1-PowerShell-Download-Cradle/
+├── Rule 2-Registry-Run-Key-Persistence/
+├── Rule 3-Scheduled-Task-Creation/
+├── Rule 4-Outbound-Non-Standard-Port/
+└── Rule 5-Rapid-Discovery-Command-Burst/
 ```
 
 ## Skills Demonstrated
